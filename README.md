@@ -1,0 +1,3 @@
+# Teaching Materials for Discrete Methods in Modern AI
+
+This repository contains the teaching materials for the "Discrete Methods in Modern AI" course.   
