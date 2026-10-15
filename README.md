@@ -10,15 +10,16 @@ In this course, we examine applications of discrete modeling techniques to probl
 
 **Requirements**: This course is intended for advanced bachelor/master students in [ISCL](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/courses-of-study/courses-of-study-at-the-sfs/international-studies-in-computational-linguistics/ba-programme-iscl/), as well as students in both the [cognitive science](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/cognitive-science-master/) and [machine learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/machine-learning/) master programs. It requires knowledge of Python, basic machine learning (e.g., deep learning) and discrete mathematics (e.g., classical logic and discrete probability). Knowledge of language modeling is not strictly required, we will go through the basics together through concrete examples. We will also cover the more advanced discrete modeling techniques in a self-contained manner. 
 
+Time and Location 
+==========
+
+Monday 12:00-14:00PM, Hörsaal 7 ([Alte Archäologie](https://maps.app.goo.gl/2b5BaPw8gPyS8sHi6)). <span style="color:red"> *Please Note*</span> The class will begin later in the semester on **November 2nd**. 
+
 Lecturer
 ==========
 
 [**Kyle Richardson**](https://www.krichardson.me/)
 
-Time and Location 
-==========
-
-**TBD**
-
 Slides 
 ==========
+
