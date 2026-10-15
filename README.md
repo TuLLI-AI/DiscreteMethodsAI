@@ -13,7 +13,7 @@ In this course, we examine applications of discrete modeling techniques to probl
 Time and Location 
 ==========
 
-Monday 12:00-14:00PM, Hörsaal 7 ([Alte Archäologie](https://maps.app.goo.gl/2b5BaPw8gPyS8sHi6)). <span style="color:red"> *Please Note*</span> The class will begin later in the semester on **November 2nd**. 
+Monday 12:00-14:00PM, Hörsaal 7 ([Alte Archäologie](https://maps.app.goo.gl/2b5BaPw8gPyS8sHi6)). $\color{red}{\text{Please note:}}$ The class will begin later in the semester on **November 2nd**. 
 
 Lecturer
 ==========
