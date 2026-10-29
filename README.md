@@ -20,6 +20,12 @@ Lecturer
 
 [**Kyle Richardson**](https://www.krichardson.me/)
 
-Slides 
+Slides and schedule 
 ==========
 
+**coming soon**
+
+Symprog 
+==========
+
+In this course, we will use the [symprog](https://github.com/TuLLI-AI/symprog) library to help implement and better understand the concepts introduced in the class. Please see there for more details and installation instructions. 
