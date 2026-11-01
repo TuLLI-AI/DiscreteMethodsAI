@@ -25,13 +25,13 @@ Slides and schedule
 
 **Foundations**
 
-**lecture 1**: course overview, **discrete modeling foundations**, [**background** 🔒](https://drive.proton.me/urls/QKZSNH56Y8#Kce8tUoLYg0d)
+**lecture 1**: course overview, **discrete modeling foundations**, [**background** 🔒](https://drive.proton.me/urls/QKZSNH56Y8#Kce8tUoLYg0d) [[📓 **notebook**]((https://github.com/TuLLI-AI/symprog/blob/main/notebooks/solver_tutorial.ipynb))]
 
 **lecture 2**: **language modeling basics**, [**transformers**](https://arxiv.org/abs/1706.03762), [**RASP**](https://arxiv.org/pdf/2106.06981).
 
 **Applications**
 
-**lecture 3**: declarative approaches to **model training and fine-tuning**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**weighted model counting**](https://www.sciencedirect.com/science/article/pii/S0004370207001889),  [**other**](https://arxiv.org/abs/1909.00126) approaches.
+**lecture 3**: declarative approaches to **model training and fine-tuning**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**weighted model counting**](https://www.sciencedirect.com/science/article/pii/S0004370207001889),  [**other**](https://arxiv.org/abs/1909.00126) approaches. [[📓 **notebook**](https://github.com/TuLLI-AI/symprog/blob/main/notebooks/semantic_loss.ipynb)]
 
 **lecture 4**: declarative and probabilistic approaches to **next-token prediction** and pre-trained model evaluation [**modellog**](https://arxiv.org/abs/2609.13520), [**LLM sampling**](https://arxiv.org/abs/1904.09751)
 
