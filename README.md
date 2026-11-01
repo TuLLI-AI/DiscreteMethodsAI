@@ -35,7 +35,9 @@ Slides and schedule
 
 **lecture 4**: declarative and probabilistic approaches to **next-token prediction** and pre-trained model evaluation [**modellog**](https://arxiv.org/abs/2609.13520), [**LLM sampling**](https://arxiv.org/abs/1904.09751)
 
-**lecture 5**: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions.  
+**lecture 5**: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions. 
+
+**lecture 6**: declarative probabilistic programming, test-time inference [**PPL**](https://arxiv.org/abs/1904.02079), [**CoT**](https://arxiv.org/abs/2201.11903) [**PPL for CoT**](https://starai.cs.ucla.edu/papers/RichardsonTPM26.pdf) 
 
 Symprog 
 ==========
