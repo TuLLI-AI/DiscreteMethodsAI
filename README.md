@@ -46,6 +46,7 @@ In this course, we will use the [symprog](https://github.com/TuLLI-AI/symprog) l
 
 Below is an example involving performing inferences over weighted Boolean formulas: 
 ```python
+## pip install symprog
 from symprog import Solver
 
 solver = Solver()
