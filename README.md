@@ -44,6 +44,21 @@ Symprog
 
 In this course, we will use the [symprog](https://github.com/TuLLI-AI/symprog) library to help implement and better understand the concepts introduced in the class. Please see there for more details and installation instructions. 
 
+Below is an example involving performing inferences over weighted Boolean formulas: 
+```python
+from symprog import Solver
+
+solver = Solver()
+
+FORMULAS = [
+    "Implies(a, b)",
+    "And(Or(a, b), Implies(a, c))"
+]
+solver.add(FORMULAS)
+solver.add_weights({"a": 0.9, "b": 0.64, "c": 0.34})
+print(solver.query())
+```
+
 Other Helpful Resources 
 ==========
 
