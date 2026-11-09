@@ -27,7 +27,7 @@ Slides and schedule
 
 [**lecture 1**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/slides/lecture1.pdf): course overview, **discrete modeling foundations**, [**background** 🔒](https://drive.proton.me/urls/QKZSNH56Y8#Kce8tUoLYg0d) [[📓 **notebook**](https://github.com/TuLLI-AI/symprog/blob/main/notebooks/solver_tutorial.ipynb)]
 
-**lecture 2**: **language modeling basics**, [**transformers**](https://arxiv.org/abs/1706.03762), [**RASP**](https://arxiv.org/pdf/2106.06981).
+[**lecture 2**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/slides/lecture2.pdf): **language modeling basics**, [**transformers**](https://arxiv.org/abs/1706.03762), [**RASP**](https://arxiv.org/pdf/2106.06981).
 
 *Applications*
 
