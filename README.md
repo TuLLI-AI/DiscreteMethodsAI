@@ -33,7 +33,7 @@ Slides and schedule
 
 [**lecture 3**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/slides/lecture3.pdf): declarative approaches to **model training and fine-tuning**, the [**semantic loss**](https://arxiv.org/pdf/1711.11157) and [**weighted model counting**](https://www.sciencedirect.com/science/article/pii/S0004370207001889),  [**other**](https://arxiv.org/abs/1909.00126) approaches. [[📓 **notebook**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/notebooks/lecture3_code.ipynb)] [[📓 **SL notebook**](https://github.com/TuLLI-AI/symprog/blob/main/notebooks/semantic_loss.ipynb)]
 
-**lecture 4**: declarative and probabilistic approaches to **next-token prediction** and pre-trained model evaluation [**modellog**](https://arxiv.org/abs/2609.13520), [**LLM sampling**](https://arxiv.org/abs/1904.09751)
+[**lecture 4**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/slides/lecture4.pdf): declarative and probabilistic approaches to **next-token prediction** and pre-trained model evaluation [**modellog**](https://arxiv.org/abs/2609.13520), [**LLM sampling**](https://arxiv.org/abs/1904.09751) [[📓 **notebook**](https://github.com/TuLLI-AI/DiscreteMethodsAI/blob/main/notebooks/lecture4_code.ipynb)] 
 
 **lecture 5**: high-level programming techniques for [**direct preference alignment**](https://arxiv.org/abs/2305.18290) and [**LLM alignment**](https://www.jair.org/index.php/jair/article/view/17541), [**formal characterizations**](https://arxiv.org/abs/2412.17696) of *known* loss functions. 
 
